@@ -1,0 +1,47 @@
+#content {
+	text-align: center;
+}
+
+.mainjumbo {
+	position: relative;
+	margin: 0;
+	background: white;
+	background-image: url(../images/header.jpg);
+	background-position: bottom;
+	background-size: cover;
+	height: 250px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.team-name {
+	text-align: center;
+	font-size: 1.5rem;
+	font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.team-score {
+	text-align: center;
+	font-size: 1.5rem;
+	font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.home-team-name {
+	text-align: center;
+}
+
+.away-team-name {
+	text-align: center;
+}
+
+.home-team-score {
+	text-align: center;
+}
+
+.away-team-score {
+	text-align: center;
+}
